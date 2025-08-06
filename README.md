@@ -50,6 +50,7 @@
   <a href="https://github.com/syvixor/skills-icons" title="Tailwind CSS"><img src="https://skills.syvixor.com/api/icons?i=tailwindcss" /></a>
   <a href="https://github.com/syvixor/skills-icons" title="Vue.js"><img src="https://skills.syvixor.com/api/icons?i=vuejs" /></a>
   <a href="https://github.com/syvixor/skills-icons" title="React"><img src="https://skills.syvixor.com/api/icons?i=reactjs" /></a>
+  <a href="https://github.com/syvixor/skills-icons" title="Next.js"><img src="https://skills.syvixor.com/api/icons?i=nextjs" /></a>
 
   <h3>Backend</h3>
 
@@ -87,7 +88,7 @@
   <a href="https://github.com/syvixor/skills-icons" title="Bash"><img src="https://skills.syvixor.com/api/icons?i=bash" /></a>
   <a href="https://github.com/syvixor/skills-icons" title="Sqlalchemy"><img src="https://skills.syvixor.com/api/icons?i=sqlalchemy" /></a>
   <a href="https://github.com/syvixor/skills-icons" title="Pytorch"><img src="https://skills.syvixor.com/api/icons?i=pytorch" /></a>
-  <a href="https://github.com/syvixor/skills-icons" title="Powerbi"><img src="https://skills.syvixor.com/api/icons?i=powerbi" /></a>
+  <a href="https://github.com/syvixor/skills-icons" title="Power BI"><img src="https://skills.syvixor.com/api/icons?i=powerbi" /></a>
   <a href="https://github.com/syvixor/skills-icons" title="Pandas"><img src="https://skills.syvixor.com/api/icons?i=pandas" /></a>
   <a href="https://github.com/syvixor/skills-icons" title="Scikitlearn"><img src="https://skills.syvixor.com/api/icons?i=scikitlearn" /></a>
   <a href="https://github.com/syvixor/skills-icons" title="Numpy"><img src="https://skills.syvixor.com/api/icons?i=numpy" /></a><br>
